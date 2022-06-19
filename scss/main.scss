@@ -1,0 +1,11 @@
+$color--melon: #F4A896;
+$color--green: #348597;
+
+body {
+  background-color: $color--melon;
+  h1 {
+    color: $color--green;
+    font-size: 30px;
+    display: flex;
+  }
+}
