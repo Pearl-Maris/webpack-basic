@@ -22,7 +22,7 @@ sass: SCSS(Sass) 문법을 해석(스타일 전처리기)
 postcss: Autoprefixer 등의 다양한 스타일 후처리기 패키지
 autoprefixer: 스타일에 자동으로 공급 업체 접두사(Vendor prefix)를 적용하는 PostCSS의 플러그인
 
-주의사항!
+## 주의사항!
 - npm i -D webpack-dev-server@next로 설치(webpack-cli 버전(@4^)과 일치)!
 - package.json 옵션으로 browserslist 추가!
 - .postcssrc.js 생성(PostCSS 구성 옵션)!
